@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "01a20dff-4d85-7f8e-a806-e6a23fd79ee5",
+    "slug": "ipv6-privatelink-lattice",
+    "dirName": "261124-ipv6-privatelink-lattice",
+    "scope": "express",
+    "repos": [
+      "handson-aidlc"
+    ],
+    "status": "complete",
+    "request": "86c7a915"
+  }
+]
